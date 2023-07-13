@@ -1,0 +1,24 @@
+.div_volume {
+    float: left;   
+}
+.div_volume_img {
+    width: 200px;
+    border-radius: 80px;
+}
+#volume
+{
+    font-size: 20px;
+    margin: 15px;
+}
+.div_speed {
+    float: right;   
+}
+.div_speed_img {
+    width: 200px;
+    border-radius: 80px;
+}
+#speed
+{
+    font-size: 20px;
+    margin: 15px;
+}
